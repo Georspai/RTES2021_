@@ -1,5 +1,5 @@
 /*
- *	File	: pc.c
+ *	File	: prod-cons2.c
  *
  *	Title	: Demo Producer/Consumer changed for the assignment 1 of RTES course.
  *
